@@ -2,7 +2,7 @@
 Gesture-Brick is classical brick breaker game developed in JavaScript (p5js and ml5js). Special Thing about the game is that paddle in game is controlled using player's head or hand or hip direction
 
 ## Live Demo
-[Play Now! ](https://tarun-bisht.github.io/Gesture-Brick/)
+[Play Now! ](https://tarun-bisht.github.io/Gesture-Brick/index.html)
 
 ##Description
 Special Thing about the game is that paddle in game is controlled using player's head or hand or hip direction ie.. Paddle gets move in the direction where player moves his head or hand or hip. Uses Posenet model to track head pose.Currently track head, hand and hip.
